@@ -1,0 +1,7 @@
+Section 1.3
+    The three topics that interact with turtle1 namesapce are:
+    /turtle1/cmd_vel
+    /turtle1/color_sensor
+    /turtle1/pose
+    
+
